@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1586396389 source:c:\users\ncfk_\documents\cppprojects\testck\main.cpp
+	<iostream>
+	"Point2D.h"
+	"Rectangle.h"
+	"FactorChecker.h"
+	<assert.h>
+
+1586370679 source:c:\users\ncfk_\documents\cppprojects\testck\src\point2d.cpp
+	"Point2D.h"
+
+1586370673 c:\users\ncfk_\documents\cppprojects\testck\include\point2d.h
+
+1586391646 source:c:\users\ncfk_\documents\cppprojects\testck\src\rectangle.cpp
+	"Rectangle.h"
+
+1586385675 c:\users\ncfk_\documents\cppprojects\testck\include\rectangle.h
+	"Point2D.h"
+
+1586396441 source:c:\users\ncfk_\documents\cppprojects\testck\src\factorchecker.cpp
+	<iostream>
+	"FactorChecker.h"
+	<math.h>
+
+1586391372 c:\users\ncfk_\documents\cppprojects\testck\include\factorchecker.h
+
